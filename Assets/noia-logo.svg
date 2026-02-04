@@ -19,9 +19,9 @@
         stroke-width="2" />
 
   <!-- Text -->
-  <text x="150" y="275"
+  <text x="150" y="280"
         text-anchor="middle"
-        font-size="14"
+        font-size="22"
         fill="#e5e5e5"
         letter-spacing="2">
     NOIA
