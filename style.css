@@ -53,6 +53,17 @@ nav li {
   cursor: default;
 }
 
+nav a {
+  text-decoration: none;
+  color: #e5e5e5;
+  display: block;
+}
+
+nav a:hover {
+  color: #ffffff;
+  background-color: #1a1a1a;
+}
+
 footer {
   margin-top: 60px;
   font-size: 12px;
