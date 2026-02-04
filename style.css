@@ -12,11 +12,31 @@ body {
   padding: 40px;
 }
 
-header h1 {
+
+header {
+  display: flex;
+  align-items: center;   /* vertical alignment */
+  gap: 20px;             /* space between logo and text */
+  margin-bottom: 40px;
+}
+
+.header-left img {
+  display: block;
+  width: 120px;          /* you can adjust if needed */
+}
+
+.header-right h1 {
   font-size: 28px;
   letter-spacing: 2px;
-  margin-bottom: 5px;
+  margin: 0;
 }
+
+.header-right .subtitle {
+  font-size: 14px;
+  color: #999;
+  margin-top: 5px;
+}
+
 
 .subtitle {
   font-size: 14px;
