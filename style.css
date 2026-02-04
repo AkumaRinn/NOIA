@@ -144,6 +144,21 @@ nav a:hover {
   border-color: #777;
 }
 
+.section-divider {
+  border: 0;
+  height: 2px;
+  background-color: #555; 
+  margin: 5px 0 15px 0;   
+  width: 25%;             
+}
+
+.section-title {
+  border-bottom: 2px solid #555;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  display: inline-block;
+  font-family: 'IBM Plex Mono', monospace;
+}
 
 
 footer {
