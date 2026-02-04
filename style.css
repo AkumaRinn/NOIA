@@ -3,7 +3,8 @@ body {
   padding: 0;
   background-color: #0e0e0e;
   color: #e5e5e5;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
+
 }
 
 .container {
@@ -14,24 +15,28 @@ body {
 
 
 header {
+  font-family: 'IBM Plex Mono', monospace;
   display: flex;
-  align-items: center;   /* vertical alignment */
-  gap: 20px;             /* space between logo and text */
+  align-items: center;
+  gap: 20px;
   margin-bottom: 40px;
+
 }
 
 .header-left img {
   display: block;
-  width: 120px;          /* you can adjust if needed */
+  width: 120px;
 }
 
 .header-right h1 {
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 28px;
   letter-spacing: 2px;
   margin: 0;
 }
 
 .header-right .subtitle {
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 14px;
   color: #999;
   margin-top: 5px;
@@ -78,6 +83,7 @@ nav ul {
   margin-top: 40px;
 }
 
+
 nav li {
   padding: 10px 0;
   border-bottom: 1px solid #222;
@@ -97,6 +103,7 @@ nav a:hover {
 }
 
 footer {
+  font-family: 'IBM Plex Mono', monospace;
   margin-top: 60px;
   font-size: 12px;
   color: #666;
