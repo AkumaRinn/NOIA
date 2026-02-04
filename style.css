@@ -102,6 +102,50 @@ nav a:hover {
   background-color: #1a1a1a;
 }
 
+/* LAUNCH SCREEN */
+.launch-screen {
+  background-color: #0b0b0b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.launch-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.launch-logo {
+  width: 160px;
+  margin-bottom: 40px;
+  opacity: 0.9;
+}
+
+
+.launch-button {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 18px;
+  letter-spacing: 2px;
+  padding: 14px 30px;
+  background-color: transparent;
+  color: #e5e5e5;
+  border: 1px solid #444;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.launch-button:hover {
+  background-color: #1a1a1a;
+  border-color: #777;
+}
+
+
+
 footer {
   font-family: 'IBM Plex Mono', monospace;
   margin-top: 60px;
