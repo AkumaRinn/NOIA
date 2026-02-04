@@ -28,6 +28,18 @@ header h1 {
   margin: 6px 0;
 }
 
+.status ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.status li {
+  padding: 8px 0;
+  border-bottom: 1px solid #222;
+  letter-spacing: 0.5px;
+}
+
+
 .ok {
   color: #6aff6a;
 }
