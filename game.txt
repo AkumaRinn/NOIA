@@ -1,0 +1,146 @@
+# --- GAME CORE --- #
+A lucid dreamer trapped in a looping gas station must choose between trusting a cold interdimensional agency 
+or facing a parasitic entity alone as reality collapses around him.
+
+
+Set in the NOIA universe
+NOIA monitors and stabilizes anomalies in the Oniric Space
+
+# --- PREMISE --- #
+
+The entire game takes place inside a lucid dream.
+
+The player is a lucid dreamer stuck in a looping gas station environment.
+The dreamer forced this loop upon himself to stay safe in the first place.
+Because of his lucidity, he leaves a “trail” in the dream space.
+
+A parasitic entity that uses trails like this to travel between realities is hunting the player to gain access to another reality.
+
+NOIA detects the instability but struggles to reach him.
+
+The gas station becomes a distorted battleground between:
+
+- The Dreamer (player)
+
+- The Parasite
+
+- NOIA
+
+# --- STRUCTURE --- #
+
+= PHASE 1 – Simulation =
+
+Player performs mundane gas station tasks:
+
+- Fueling cars
+
+- Taking out trash
+
+- Cleaning [Maybe]
+
+- Stocking [Maybe]
+
+- Punching in/out
+
+- Handling customers [Maybe]
+
+Everything feels normal at first.
+
+
+= PHASE 2 – Anomalies Begin =
+
+Subtle distortions appear:
+
+Trash reappears after being taken out
+
+Cars all look identical
+
+Time inconsistencies
+
+Repeated customers
+
+Doors leading to slightly altered interiors
+
+Sound desyncs
+
+Flickering lights that don't match switches
+
+Objects in wrong positions
+
+! Player logs anomalies on their phone.
+
+! Anomalies escalate as the parasite gets closer.
+
+
+
+= PHASE 3 – Contact =
+
+All activity suddenly stops.
+
+The TV turns on.
+
+NOIA speaks:
+
+They warn the player that something is coming.
+They are trying everything in their power to reach him but it is very difficult.
+
+At this point. The creature itself appears and the tasks of the player switch. He now has to survive.
+
+
+
+= PHASE 4 – The Choice =
+
+NOIA says they cannot isolate his location.
+
+Player choice:
+
+Option A – Trust NOIA
+Tell NOIA about the anomaly log
+
+→ Mission: Climb signal tower
+→ Plug phone into beacon
+→ NOIA isolates and reaches him
+
+Option B – Don't trust NOIA
+Say Nothing
+
+→ NOIA cannot locate him
+→ Reality worsens
+→ Gas station collapses into nightmare space
+
+
+# --- CORE LOOP (Early Game) --- #
+
+Work
+Notice anomaly
+Log anomaly
+Repeat
+
+Tension builds slowly through the anomalies 
+
+
+# --- CORE LOOP (Late Game) --- #
+
+Survive
+Repair
+Avoid creature
+Make decision
+
+
+# --- STORY ADD --- #
+
+[+] I have to give the player reasons to not trust NOIA so he really has to weight his choice when he has to either tell them about the anomalies or not
+
+[+] If the player tells NOIA about the anomalies, he's given the task to send NOIA the information. 
+    He then asks how he can do that in the first place. NOIA decides to test his ability of control of the dreams.
+    The player is told to try and imagine that NOIA found him already. After all this is his dream.
+    The player can't do that, meaning he's not that advanced of a lucid dreamer. He can alter some things but they have to have somewhat of a believable logic to it
+    The player remembers there is a signal tower outside and he asks if plugging the phone in the tower would help in any way. 
+    Given his level of oniric control, NOIA tells him that this might work. 
+    The player mission is set. He needs to climb the tower.
+
+[+] NOIA will contact the player throught the TV from time to time, giving him some missions or so. (How can the broadcast reach him if they can't find him?
+    They are broadcasting to all available 'channels' and the answer appears on their side as coming from all realities at the same time)
+
+[+] Have some random NPC that comes to the station say something like: "Fuck NOIA, my son wanted to work for them and now I haven't talked to him in 10 years"
+    And so on blah blah
